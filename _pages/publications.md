@@ -16,7 +16,7 @@ Nina Vesseron, Elsa Cazelles, Alice Le Brigant, Thierry Klein
 *pending*       
 [paper](https://arxiv.org/abs/2506.04480?)
 
-**On a neural implementation of brenier's polar factorization**  
+**On a Neural Implementation of Brenier's Polar Factorization**  
 Nina Vesseron, Marco Cuturi  
 *International Conference on Machine Learning (ICML 2024)*           
 [paper](https://arxiv.org/abs/2403.03071)
