@@ -13,7 +13,7 @@ title                    : "Nina Vesseron"
 title_separator          : "-"
 name                     : &name "Nina Vesseron"
 description              : &description "PhD studient at Crest ENSAE"
-url                      : https://ninavesseron.github.io
+url                      : https://nvesseron.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
