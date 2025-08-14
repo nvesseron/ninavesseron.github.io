@@ -11,7 +11,7 @@ Nina Vesseron, Louis Béthune, Marco Cuturi
 *pending*        
 [paper](https://arxiv.org/abs/2503.10576)
 
-**On the Wasserstein geodesic principal component analysis of probability measures**  
+**On the Wasserstein Geodesic Principal Component Analysis of probability measures**  
 Nina Vesseron, Elsa Cazelles, Alice Le Brigant, Thierry Klein                                 
 *pending*       
 [paper](https://arxiv.org/abs/2506.04480?)
@@ -21,7 +21,7 @@ Nina Vesseron, Marco Cuturi
 *International Conference on Machine Learning (ICML 2024)*           
 [paper](https://arxiv.org/abs/2403.03071)
 
-**Deep neural networks are congestion games: From loss landscape to Wardrop equilibrium and beyond**  
+**Deep Neural Networks are Congestion Games: From Loss Landscape to Wardrop Equilibrium and Beyond**  
 Nina Vesseron, Ievgen Redko, Charlotte Laclau  
 *International Conference on Artificial Intelligence and Statistics (AIStat 2021)*           
 [paper](http://proceedings.mlr.press/v130/vesseron21a/vesseron21a.pdf)
