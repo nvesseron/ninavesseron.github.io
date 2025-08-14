@@ -8,12 +8,12 @@ author_profile: true
 
 **Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**  
 Nina Vesseron, Louis Béthune, Marco Cuturi         
-*Neural Information Processing Systems (NeurIPS 2025)*           
+*pending*        
 [paper](https://arxiv.org/abs/2503.10576)
 
 **On the Wasserstein geodesic principal component analysis of probability measures**  
 Nina Vesseron, Elsa Cazelles, Alice Le Brigant, Thierry Klein                                 
-*Neural Information Processing Systems (NeurIPS 2025)*       
+*pending*       
 [paper](https://arxiv.org/abs/2506.04480?)
 
 **On a neural implementation of brenier's polar factorization**  
